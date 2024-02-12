@@ -16,6 +16,6 @@ If you want to use this source, fork this repository to yours and start working.
 
 <h2>Screenshots:</h2>
 
-<img src="https://i.imgur.com/xTP4C2w.png"></img>
-
 <img src="https://i.imgur.com/oo7MbdS.png"></img>
+
+<img src="https://i.imgur.com/xTP4C2w.png"></img>
